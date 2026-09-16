@@ -1,0 +1,107 @@
+post_id,title,category,score,num_comments,author,collected_at
+49717638,Building a Linux GPU Driver for the M4 Mac Mini in One Month,technology,205,125,ADevWithAnIdea,2026-09-16 09:58:07
+49721435,Stay discoverable in search while disallowing AI training,technology,37,17,djfergus,2026-09-16 09:58:07
+49712278,Show HN: Capsule – Single-file web apps that save their data into SQLite,technology,300,121,bashtian,2026-09-16 09:58:07
+49713894,Show HN: Pizza Bot – An inbox for AI agents that work in the background,technology,37,22,jd_,2026-09-16 09:58:07
+49679949,Data races and the limits of ThreadSanitizer in C and Go,technology,35,1,matt_d,2026-09-16 09:58:07
+49713999,Cartesian – AI 3D Modeling for Design,technology,101,78,eustoria,2026-09-16 09:58:07
+49680428,Sony's First Computer – The SMC-70 from 1982 [video],technology,69,21,ksymph,2026-09-16 09:58:07
+49710015,How much of F-Droid is LLM generated?,technology,125,168,_ZeD_,2026-09-16 09:58:07
+49712409,"AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",technology,52,111,Betelbuddy,2026-09-16 09:58:07
+49707627,Linux from Scratch,technology,361,109,sippingabonedry,2026-09-16 09:58:07
+49697477,Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen),technology,150,29,nathannaveen,2026-09-16 09:58:07
+49716265,"Google copied our open-source code, removed engineers' names without credit",technology,119,11,jacquesm,2026-09-16 09:58:07
+49719249,AWS Says It Can't Restore Some Data from Mideast Facilities Struck by Iran,technology,24,4,berkeleyjunk,2026-09-16 09:58:07
+49713261,What we have learned at OpenShell applying formal methods to control AI agents,technology,31,11,alexwatson405,2026-09-16 09:58:07
+49712891,Show HN: Loss. a tiny satire about AI progress,technology,30,8,pbobak,2026-09-16 09:58:07
+49712416,AI is breaking our proxies for expertise,technology,85,74,jbkcc,2026-09-16 09:58:07
+49715672,"Show HN: DaiDocs, AI memory as a plain-text file format, not a service",technology,6,1,Amin_Rigi,2026-09-16 09:58:07
+49697094,Adversarial Fashion Makes a Statement on AI Panopticon,technology,111,48,rbanffy,2026-09-16 09:58:07
+49709403,Pythoncall.jl – Python and Julia in Harmony,technology,15,1,TheWiggles,2026-09-16 09:58:07
+49706223,"Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",technology,223,134,throwworhtthrow,2026-09-16 09:58:07
+49716852,AI models chatting in 'surreal' dialect of poetic language and tech bro jargon,technology,19,1,fittingopposite,2026-09-16 09:58:07
+49716832,Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations,technology,20,12,madihaa,2026-09-16 09:58:07
+49703003,GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?,technology,160,151,theanonymousone,2026-09-16 09:58:07
+49710853,Do you still read the code?,technology,11,2,wofo,2026-09-16 09:58:07
+49715113,There's a 100% Chance AI Agents Are Ruining the Internet,technology,215,153,pavel_lishin,2026-09-16 09:58:07
+49707473,US confirms for first time it has deployed space weapons,worldnews,452,319,harporoeder,2026-09-16 09:58:09
+49692098,Inverse-Square Law,worldnews,49,15,surprisetalk,2026-09-16 09:58:09
+49704008,Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit,worldnews,216,217,neom,2026-09-16 09:58:09
+49659557,Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row,worldnews,55,43,bookofjoe,2026-09-16 09:58:09
+49712746,"Global bond yields hit 2008 highs, raising stakes for big borrowers",worldnews,157,165,kaycebasques,2026-09-16 09:58:09
+49721285,Republicans Aim to Shield Fossil Fuel Companies from Climate Lawsuits,worldnews,4,0,paimapi,2026-09-16 09:58:09
+49718815,Iran war has cost on average $246M per day in its first five months,worldnews,35,7,onza,2026-09-16 09:58:09
+49685253,"Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",worldnews,412,236,TheJCDenton,2026-09-16 09:58:09
+49715401,US confirms for first time it has deployed weapons in space,worldnews,8,0,tosh,2026-09-16 09:58:09
+49706451,US military reveals it has weapons in space,worldnews,55,18,JumpCrisscross,2026-09-16 09:58:09
+49717166,US agency orders Tesla to answer questions on Cybercab certification,worldnews,5,0,Betelbuddy,2026-09-16 09:58:09
+49690051,The Coming War on General Computation (2011),worldnews,120,39,gregsadetsky,2026-09-16 09:58:09
+49714523,Laundering Federal Election Interference in the Midterms,worldnews,4,1,hn_acker,2026-09-16 09:58:09
+49719593,Rep. Massie moves to impeach Hegseth over Iran war,worldnews,10,2,handfuloflight,2026-09-16 09:58:09
+49704001,US coal 'biggest contributor by far' to rise in global emissions,worldnews,45,37,softwaredoug,2026-09-16 09:58:09
+49707006,Air Force secretary acknowledges the US has weapons in space,worldnews,19,3,SanjayMehta,2026-09-16 09:58:09
+49703455,AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite,worldnews,18,3,avalexandrov,2026-09-16 09:58:09
+49683729,US Customs supervisor busted for stealing hardware from Homeland Security PCs,worldnews,135,108,Levitating,2026-09-16 09:58:09
+49682087,Revolut confirms customer data breach through fake government requests,worldnews,188,131,tdrz,2026-09-16 09:58:09
+49663054,CIA Releases President's Daily Briefs in Commemoration of 9/11,worldnews,155,81,stmw,2026-09-16 09:58:09
+49700413,"US 10-Year Breaches 5% as Inflation, Supply Worries Mount",worldnews,70,53,toomuchtodo,2026-09-16 09:58:09
+49660576,Global Glacier Extinction Explorer,worldnews,158,64,guillego,2026-09-16 09:58:09
+49666735,OpenAI agents carried out an undisclosed attack on RubyGems,worldnews,966,605,chao-,2026-09-16 09:58:09
+49658299,Houthis 'take control' of key island in global shipping route,worldnews,392,705,consumer451,2026-09-16 09:58:09
+49721531,Every US Electrical Outlet Explained,worldnews,1,0,vismit2000,2026-09-16 09:58:09
+49712714,Experience Necessary. The Irony of Building a Skilled Team in the Age of AI,sports,15,0,another-dave,2026-09-16 09:58:11
+49700262,Patients Who Fight Health Insurance Denials Often Win,sports,44,28,toomuchtodo,2026-09-16 09:58:11
+49691619,Below the Root: JavaScript port of the Commodore 64 game,sports,4,0,gregsadetsky,2026-09-16 09:58:11
+49721246,Show HN: Breakdown: a daily game about guessing data distributions,sports,2,0,aberrantflux,2026-09-16 09:58:11
+49719417,Oblock the Game,sports,2,0,Fungle,2026-09-16 09:58:11
+49719247,Show HN: DeadLock OS – A Linux terminal puzzle game,sports,3,0,devejesus,2026-09-16 09:58:11
+49718200,A simulated fruit-fly brain (FlyWire connectome) plays a strategy game,sports,1,0,Pr1nted,2026-09-16 09:58:11
+49712621,Show HN: Panel – A research workspace where the agent can build its own panes,science,48,19,greentfrapp,2026-09-16 09:58:13
+49696453,People who can't picture anything are rewriting the science of imagination,science,208,297,giuliomagnifico,2026-09-16 09:58:13
+49717472,California attempts to crack down on health spending,science,9,2,elo2000,2026-09-16 09:58:13
+49699648,Why don't machine learning research agents overfit?,science,133,91,Betelbuddy,2026-09-16 09:58:13
+49712583,Effects of music training on the child's brain and cognitive development,science,13,0,taubek,2026-09-16 09:58:13
+49711267,Show HN: Linux Doctor – read-only health checks that explain what's wrong,science,8,0,7sh1d0w7x,2026-09-16 09:58:13
+49678423,TailTalk: A modern async user space AppleTalk stack with Rust and Tokio,science,77,15,zdw,2026-09-16 09:58:13
+49714735,Splash-free urinals: Design through physics and differential equations,science,21,20,gradus_ad,2026-09-16 09:58:13
+49678435,AgentsDock: An IDE designed for agentic AI research,science,81,33,ZihuiGeorgia,2026-09-16 09:58:13
+49662214,λ Snap – An inviting programming language for kids and adults for CS study,science,184,108,dr_kiszonka,2026-09-16 09:58:13
+49697443,My Health Insurance Denied My Cancer Treatment. I Emailed the CEO,science,47,25,mooreds,2026-09-16 09:58:13
+49695196,ESA Space Environment Report 2026,science,3,0,ColinWright,2026-09-16 09:58:13
+49688500,Jason Arday and the Corruption of Science,science,37,1,kgwgk,2026-09-16 09:58:13
+49721920,NASA-backed scientists turn plastic waste into edible cookies,science,2,1,danielmorozoff,2026-09-16 09:58:13
+49721340,"The Roman telescope has enough gas for 22 years, double NASA's expectations",science,3,0,jnord,2026-09-16 09:58:13
+49720854,Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime,science,1,1,JojoFatsani,2026-09-16 09:58:13
+49720407,Is There Anything Google's Fruit Fly Brain Can't Do?,science,5,0,xnx,2026-09-16 09:58:13
+49719781,U.S. confirms for first time it has weapons deployed in space,science,3,0,pseudolus,2026-09-16 09:58:13
+49719670,An Organizational Second Brain: Building an AI That Learns from Experts,science,1,0,gmays,2026-09-16 09:58:13
+49718505,Reality is an illusion: brain as an interface to a hidden reality – M.Levin [video],science,2,0,binyu,2026-09-16 09:58:13
+49717996,Rocket Lab is seeing red about NASA's decision on a Mars spacecraft,science,5,1,mooreds,2026-09-16 09:58:13
+49717942,Why Does Middle-Earth Feel Deeper Than Other Fantasy Worlds?,science,4,0,BerislavLopac,2026-09-16 09:58:13
+49717936,Show HN: farseer.space – fly anywhere in the universe in your browser,science,7,1,headsupernova,2026-09-16 09:58:13
+49717637,US acknowledges for the first time that it has deployed weapons in space,science,3,0,jamesgill,2026-09-16 09:58:13
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,entertainment,1419,186,arnemunthekaas,2026-09-16 09:58:15
+49721548,"Negativland, Culture Jamming, and the Art of Making Something New",entertainment,31,10,bananaboy,2026-09-16 09:58:15
+49693971,"Show HN: I made a flight simulator, except you're just a passenger",entertainment,20,10,rkotcher,2026-09-16 09:58:15
+49712102,Show HN: Hacking a $20 4G wireless hotspot into a texting device,entertainment,183,32,bobili1234,2026-09-16 09:58:15
+49684042,"Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",entertainment,53,7,emerongi,2026-09-16 09:58:15
+49712005,Over 12% of links posted to Hacker News are Show HN projects now,entertainment,65,20,oyster143,2026-09-16 09:58:15
+49713037,Show HN: Check if your IP has appeared in a residential proxy network,entertainment,64,39,microcode,2026-09-16 09:58:15
+49676425,Show HN: Redis City – Explore how Redis works in an interactive 3D model,entertainment,165,25,poltora,2026-09-16 09:58:15
+49689770,Fixing an NZXT Signal 4K30 part 2: the green/pink video bug,entertainment,25,8,zdw,2026-09-16 09:58:15
+49721136,"Photos show damage at U.S. positions caused by Iranian missile, drone attacks",entertainment,4,0,cwwc,2026-09-16 09:58:15
+49712276,Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks,entertainment,50,30,ac-ciano,2026-09-16 09:58:15
+49705442,Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS,entertainment,83,21,fretlessjazz,2026-09-16 09:58:15
+49695408,Show HN: Kinesis – Control your Mac with the Meta Neural Band,entertainment,119,45,callbacked,2026-09-16 09:58:15
+49714495,"Show HN: SCIP MIP solver bindings for Go, ported from russcip",entertainment,11,0,generalist_dev,2026-09-16 09:58:15
+49696402,Show HN: Pelican-bicycle alternatives,entertainment,128,45,tkgally,2026-09-16 09:58:15
+49699267,"Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",entertainment,89,31,toebee,2026-09-16 09:58:15
+49714036,Show HN: Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s,entertainment,5,2,marcobambini,2026-09-16 09:58:15
+49712073,"Show HN: Open-source passive NFC tag that signs with ECDSA, verified on-chain",entertainment,8,0,boust16,2026-09-16 09:58:15
+49676324,LG says we're fake news [video],entertainment,407,207,HelloUsername,2026-09-16 09:58:15
+49699159,Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme,entertainment,160,76,samke-,2026-09-16 09:58:15
+49713034,Show HN: Let agent read files with secrets while redacting values for LLM contex,entertainment,3,1,daniel-sc,2026-09-16 09:58:15
+49712254,Show HN: I built a tiny camera that knows where it is,entertainment,5,4,asadm,2026-09-16 09:58:15
+49719052,What if social media isn't hurting kids?,entertainment,7,2,pavel_lishin,2026-09-16 09:58:15
+49651567,Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025),entertainment,96,30,binyu,2026-09-16 09:58:15
+49710096,Show HN: A Zoomable Equal-Area Map Projection that interpolates to Mercator,entertainment,4,0,benjoffe,2026-09-16 09:58:15
